@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-dot{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
